@@ -29,7 +29,7 @@ body {
   position: relative;
   place-items: center;
   line-height: inherit;
-  background: #0E6A6A url('./icons/bg.svg') no-repeat center;
+  background: #0E6A6A url('/icons/bg.svg') no-repeat center;
   background-size: 600px;
 }
 
